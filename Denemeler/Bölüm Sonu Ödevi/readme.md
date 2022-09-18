@@ -2,7 +2,7 @@
 
 [Patika](https://www.patika.dev/tr) boyunca yaptığımız ilk bölüm sonu ödevi.
 
-Benim için eğlenceli geçiyor, ilk defa html ile bu kadar ilerledim. Sürekli çalışmaktan vazgeçerdim.
+Benim için eğlenceli geçiyor, ilk defa html ile bu kadar ilerledim.
 
 # Patika.dev
 
